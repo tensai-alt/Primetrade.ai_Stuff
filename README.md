@@ -147,7 +147,8 @@ Status: FILLED
 Executed Qty: 0.001
 ```
 
-📸 *(Add screenshot here)*
+<img width="1200" height="357" alt="image" src="https://github.com/user-attachments/assets/6f7faa21-b6d8-4076-86e7-2c4d92dc62c1" />
+
 
 ---
 
@@ -166,7 +167,8 @@ Order ID: XXXXX
 Status: NEW / FILLED
 ```
 
-📸 *(Add screenshot here)*
+<img width="1319" height="360" alt="image" src="https://github.com/user-attachments/assets/558614ec-712e-44e2-9d81-609512b1ff22" />
+
 
 ---
 
@@ -181,7 +183,7 @@ Order ID: XXXXX
 Status: NEW / FILLED
 ```
 
-📸 *(Add screenshot here)*
+### This extra feature is not working, I was just casually trying to develop this STOP_LOSS feature
 
 ---
 
